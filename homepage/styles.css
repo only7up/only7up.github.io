@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    color: green;
+    font size: 35px;
+    font family; Helvetica;
+    padding-left: 5px;
+    float: left;
+    padding-top: 10px;
+    text-allign: left;
+}
+
+.title {
+    color: green;
+    font-size: 45px;
+    font-family: helvetica;
+    text-align: center;
+    margin: auto;
+    text-decoration: underline;
+
+}
+
+.essay{
+    color: green;
+    font-size: 22px;
+    font-family: helvetica;
+    text-align: center;
+    margin: auto;
+}
+
+
+.bg {
+    background-image: url("bg1.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.bg3 {
+    background-image: url("beigebackground.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.bg4 {
+    background-image: url("beigebackground.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg5 {
+    background-image: url("beigebackground.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titleforhome {
+    color: white;
+}
+.signature {
+    color: white;
+}
